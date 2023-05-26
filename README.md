@@ -4,7 +4,7 @@ This repo contains an ant colony simulation, perfoming food gathering for their 
 
 > This project is heavily inspired by [SebastianLague - Coding Adventure: Ant and Slime Simulations Video](https://www.youtube.com/watch?v=X-iSQQgOd1A&t=532s&ab_channel=SebastianLague)
 
-## OverView
+## Overview
 
 ![Example](docs/gifs/sim-example.gif)
 
